@@ -5,8 +5,9 @@ body {
 }
 
 header {
-    border-bottom: solid 2px plum
+    border-bottom: solid 2px palevioletred
     padding: 20px;
     font-size: 32px;
+    color: rgb(216 212 247 )
 
 }
