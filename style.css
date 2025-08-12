@@ -1,13 +1,12 @@
 body {
  color:black;
- background:#bd6180
+ background:#bd6180;
  margin: 0px;
 }
 
 header {
-    border-bottom: solid 2px plum
+    border-bottom: solid 2px plum;
     padding: 20px;
     font-size: 32px;
-    color: rgb(221 160 221 )
-
+    color: rgb(221 160 221 );
 }
